@@ -26,6 +26,7 @@
     "react": "^17.0.1",
     "tailwindcss": "^2.0.3"
   },
+  
   "peerDependencies": {
     "gatsby": "^3.0.0",
     "react": "^17.0.1",
@@ -53,9 +54,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/wkocjan/gatsby-theme-intro"
+    "url": "https://github.com/mustfabayir/portfolio"
+  },
+  "resolutions": {
+    "graphql": "^15.5.0"
   },
   "bugs": {
-    "url": "https://github.com/wkocjan/gatsby-theme-intro/issues"
+    "url": "https://github.com/mustfabayir/portfolio/issues"
   }
 }

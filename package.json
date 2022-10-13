@@ -6,10 +6,14 @@
   "scripts": {
     "build": "yarn workspace site build",
     "clean": "yarn workspace site clean",
-    "develop": "yarn workspace site develop"
+    "develop": "sudo yarn workspace site develop"
   },
   "workspaces": [
     "gatsby-theme-intro",
     "site"
-  ]
+  ],
+  "dependencies": {
+    "gatsby": "^4.24.4",
+    "yarn": "^1.22.19"
+  }
 }
