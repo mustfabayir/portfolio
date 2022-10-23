@@ -1,7 +1,7 @@
 - profile:
   initials: MB
   name: Mustafa BAYIR
-  profession: Software Developer
+  profession: Software Engineer
   image: images/profile.jpg
   location: Budapest, Hungary
   relocation: true
@@ -14,9 +14,9 @@
 
     I am open to open-source projects, if you're looking for contributors I would be happy to help. Please don't hesitate to reach out to me if you have any question, want to hire me for a freelance project or even seeking a mentor.
   skills:
-    - Python / Django
-    - HTML / CSS
+    - Python
     - JavaScript
+    - React
     - Java
   tools:
     - VSCode
